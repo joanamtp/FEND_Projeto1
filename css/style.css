@@ -1,0 +1,44 @@
+#Navegacao {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0;
+  overflow: hidden;
+}
+
+
+#Navegacao2 {
+  text-align: center;
+  display: block;
+  padding: 8px;
+  background-color: translucid;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  opacity: inherit;
+  font-size: 15px;
+
+}
+
+body {
+  background-color: #e2dfda;
+  color: black;
+  font-family: myFirstFont;
+  }
+
+@font-face {
+  font-family: myFirstFont;
+  src: url(../Fonts/Abel-Regular.ttf);
+  }
+
+p {
+  font-size: 15px;
+  text-align: justify;
+  color: #000000;
+}
+
+h1{
+  font-size: 20px;
+  color: #a9938a;
+}
+
+nav a{
+  color: white;
+}
